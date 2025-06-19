@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=40&fontColor=FFFFFF"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,50:512BD4,100:0078D4&height=200&animation=twinkling&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=40&fontColor=FFFFFF"/>
 <img src="https://readme-typing-svg.demolab.com/?center=true&size=22&pause=1000&color=4DD0E1&vCenter=true&width=500&lines=Desarrollador+fullstack+en+.NET;Fundador+de+Dev+Jujuy"/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=MIKILO10&style=flat-square&color=brightgreen" alt="Profile views"/></p>
 
@@ -12,6 +12,8 @@
 - ☁️ Experiencia en microservicios y despliegue en la nube
 - 🧑‍🏫 Fundador de [Dev Jujuy](https://www.dev-jujuy.com.ar)
 - 🛠️ Partidario de la automatización con Vault y Jenkins
+- 🤝 Contribuidor en proyectos open source
+- 🎓 Certificado en Microsoft Azure Fundamentals
 
 ---
 
@@ -26,6 +28,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## 🔢 Estadísticas rápidas
+
+![Seguidores](https://img.shields.io/github/followers/MIKILO10?style=flat-square&color=512BD4&label=Seguidores)
+![Stars](https://img.shields.io/github/stars/MIKILO10/MIKILO10?style=flat-square&color=F8D847&label=Stars)
+![Watchers](https://img.shields.io/github/watchers/MIKILO10/MIKILO10?style=flat-square&color=239120&label=Watchers)
 
 ---
 
@@ -42,14 +50,17 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKILO10&layout=compact&theme=radical&langs_count=6" />
 </p>
+## 🌟 Proyectos Destacados
 
+- [Portfolio Personal](https://mikilo10.github.io/Portfolio/) - Muestra mis proyectos y artículos.
+- [Dev Jujuy](https://www.dev-jujuy.com.ar) - Comunidad de desarrollo del NOA.
 ---
 
 ## 📬 Contacto
 
-- 📧 Email: gonzalomamani.ucse10@gmail.com
-- 🌐 Web: [https://mikilo10.github.io/Portfolio](https://mikilo10.github.io/Portfolio/)
-- 💼 LinkedIn: [Gonzalo Mamaní](https://www.linkedin.com/in/gjem10/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gonzalomamani.ucse10@gmail.com)
+[![Web](https://img.shields.io/badge/Web-239120?style=flat-square&logo=google-chrome&logoColor=white)](https://mikilo10.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjem10/)
 
 ---
 
