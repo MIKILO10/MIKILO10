@@ -1,14 +1,17 @@
-<h1 align="center">¡Hola! Soy Gonzalo Mamaní López 👋</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=40&fontColor=FFFFFF"/>
+<img src="https://readme-typing-svg.demolab.com/?center=true&size=22&pause=1000&color=4DD0E1&vCenter=true&width=500&lines=Desarrollador+fullstack+en+.NET;Fundador+de+Dev+Jujuy"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MIKILO10&style=flat-square&color=brightgreen" alt="Profile views"/></p>
+
 
 ---
 
 ## 🚀 Sobre mí
 
-- 👨‍💻 Trabajo en proyectos con .NET 6/8, SQL Server, Azure, Docker y microservicios
-- 🧠 Me especializo en backend, rendimiento y arquitecturas escalables
-- 🌱 Actualmente mejorando skills en alta concurrencia, caching, sistemas de alta demanda
+- 👨‍💻 Desarrollo soluciones en .NET 6/8, SQL Server, Azure y Docker
+- 🧠 Apasionado por el rendimiento y las arquitecturas escalables
+- ☁️ Experiencia en microservicios y despliegue en la nube
 - 🧑‍🏫 Fundador de [Dev Jujuy](https://www.dev-jujuy.com.ar)
-- 🛠️ Amante de los servidores propios, Vault, Jenkins, y el desarrollo profesional serio con pasión
+- 🛠️ Partidario de la automatización con Vault y Jenkins
 
 ---
 
@@ -29,6 +32,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MIKILO10&theme=radical&margin-w=15&no-frame=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIKILO10&theme=radical" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MIKILO10&show_icons=true&theme=radical&count_private=true&hide=issues" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKILO10&layout=compact&theme=radical&langs_count=6" />
@@ -38,17 +47,18 @@
 
 ## 📬 Contacto
 
-- 📧 Email: gonzalomamani.ucse10@gmail.com  
-- 🌐 Web: [https://mikilo10.github.io/Portfolio](https://mikilo10.github.io/Portfolio/)  
-- 💼 LinkedIn: [Gonzalo Mamaní](https://www.linkedin.com/in/gjem10/)  
+- 📧 Email: gonzalomamani.ucse10@gmail.com
+- 🌐 Web: [https://mikilo10.github.io/Portfolio](https://mikilo10.github.io/Portfolio/)
+- 💼 LinkedIn: [Gonzalo Mamaní](https://www.linkedin.com/in/gjem10/)
+
 ---
 
 ## 🔥 Frase que me representa
 
-> "Sé el Sr que quisiste tener cuando eras un Jr"
+> "La constancia y el aprendizaje diario hacen la diferencia"
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:512BD4&height=100&section=footer"/>
 </p>
