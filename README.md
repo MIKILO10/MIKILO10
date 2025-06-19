@@ -12,8 +12,6 @@
 - ☁️ Experiencia en microservicios y despliegue en la nube
 - 🧑‍🏫 Fundador de [Dev Jujuy](https://www.dev-jujuy.com.ar)
 - 🛠️ Partidario de la automatización con Vault y Jenkins
-- 🤝 Contribuidor en proyectos open source
-- 🎓 Certificado en Microsoft Azure Fundamentals
 
 ---
 
@@ -50,6 +48,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKILO10&layout=compact&theme=radical&langs_count=6" />
 </p>
+
 ## 🌟 Proyectos Destacados
 
 - [Portfolio Personal](https://mikilo10.github.io/Portfolio/) - Muestra mis proyectos y artículos.
