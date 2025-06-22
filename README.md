@@ -56,6 +56,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKILO10&layout=compact&theme=radical&langs_count=6" loading="lazy" />
 </p>
 
+## 🌀 Animaciones
+
+<p align="center">
+  <img src="assets/animated.svg" alt="Círculo animado" />
+  <br/>
+  <img src="assets/missing.png" alt="Imagen no disponible" />
+</p>
+
 ## 🌟 Proyectos Destacados
 
 - [Portfolio Personal](https://mikilo10.github.io/Portfolio/) - Muestra mis proyectos y artículos.
