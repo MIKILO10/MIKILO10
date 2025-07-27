@@ -4,6 +4,8 @@
 </p>
 
 <h1 align="center">¡Bienvenido a mi GitHub!</h1>
+<p align="center">Desarrollador fullstack especializado en .NET y entusiasta de la automatización.</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MIKILO10&style=flat-square&color=brightgreen" alt="Visitas al perfil" />
@@ -13,11 +15,11 @@
 
 ## 🚀 Sobre mí
 
-- 👨‍💻 Trabajo con .NET 6/8, SQL Server, Azure, Docker y DevOps
-- 🔁 Automatizo flujos con Vault, Jenkins y GitHub Actions
-- 🧱 Apasionado por microservicios y arquitecturas limpias
-- 💡 Siempre en búsqueda de optimizar el rendimiento
-- 🧑‍🏫 Fundador de [Dev Jujuy](https://www.dev-jujuy.com.ar)
+- 👨‍💻 Desarrollo aplicaciones con .NET 6/8, SQL Server, Azure, Docker y herramientas DevOps.
+- 🔁 Automatizo flujos de trabajo con Vault, Jenkins y GitHub Actions.
+- 🧱 Interesado en microservicios y arquitecturas limpias.
+- 💡 Enfocado en optimizar el rendimiento de las aplicaciones.
+- 🧑‍🏫 Fundador de [Dev Jujuy](https://www.dev-jujuy.com.ar).
 
 ---
 
@@ -50,6 +52,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MIKILO10&theme=radical&margin-w=15&no-frame=true" />
+</p>
+
+## 📊 Panel de Commits
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIKILO10&theme=github-compact" alt="Historial de Commits" />
 </p>
 
 ---
