@@ -3,9 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollador+Fullstack+en+.NET;Fundador+de+Dev+Jujuy;Apasionado+por+el+c%C3%B3digo+y+la+automatizaci%C3%B3n" alt="Typing SVG" />
 </p>
 
-<h1 align="center">¡Bienvenido a mi GitHub!</h1>
-<p align="center">Desarrollador fullstack especializado en .NET y entusiasta de la automatización.</p>
-
+<h1 align="center"><font color="#FF5733">¡Bienvenido a mi GitHub!</font></h1>
+<p align="center"><font color="#0F9D58">Desarrollador fullstack especializado en .NET y entusiasta de la automatización.</font></p>
+<p align="center">
+  <img src="assets/animated.svg" alt="Animación de colores" width="60" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MIKILO10&style=flat-square&color=brightgreen" alt="Visitas al perfil" />
@@ -13,7 +15,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 <font color="#0078D4">Sobre mí</font>
 
 - 👨‍💻 Desarrollo aplicaciones con .NET 6/8, SQL Server, Azure, Docker y herramientas DevOps.
 - 🔁 Automatizo flujos de trabajo con Vault, Jenkins y GitHub Actions.
@@ -23,7 +25,7 @@
 
 ---
 
-## 🧰 Stack actual
+## 🧰 <font color="#512BD4">Stack actual</font>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -39,7 +41,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 <font color="#239120">Estadísticas de GitHub</font>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MIKILO10&show_icons=true&theme=radical&count_private=true&hide=issues" />
@@ -54,7 +56,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MIKILO10&theme=radical&margin-w=15&no-frame=true" />
 </p>
 
-## 📊 Panel de Commits
+## 📊 <font color="#D14836">Panel de Commits</font>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIKILO10&theme=github-compact" alt="Historial de Commits" />
@@ -62,14 +64,14 @@
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 <font color="#DD0031">Proyectos Destacados</font>
 
 - 🖥️ [Portfolio Personal](https://mikilo10.github.io/Portfolio/)
 - 🌐 [Dev Jujuy](https://www.dev-jujuy.com.ar) – Comunidad y soluciones IT desde el norte argentino
 
 ---
 
-## 📬 Contacto
+## 📬 <font color="#0A66C2">Contacto</font>
 
 <p align="center">
   <a href="mailto:gonzalomamani.ucse10@gmail.com">
@@ -87,7 +89,7 @@
 
 ## 🔥 Frase que me representa
 
-> _“La constancia y el aprendizaje diario hacen la diferencia.”_
+> <font color="#512BD4">“La constancia y el aprendizaje diario hacen la diferencia.”</font>
 
 ---
 
