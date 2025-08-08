@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=239120,512BD4,0078D4&height=200&animation=twinkling&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=38&fontColor=FFFFFF" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=239120,512BD4,0078D4&height=200&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=38&fontColor=FFFFFF" alt="Banner" />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollador+Fullstack+en+.NET;Fundador+de+Dev+Jujuy;Apasionado+por+el+c%C3%B3digo+y+la+automatizaci%C3%B3n" alt="Typing SVG" />
 </p>
 
-<h1 align="center"><font color="#FF5733">¡Bienvenido a mi GitHub!</font></h1>
-<p align="center"><font color="#0F9D58">Desarrollador fullstack especializado en .NET y entusiasta de la automatización.</font></p>
+<h1 align="center"><font color="#512BD4">¡Bienvenido a mi GitHub!</font></h1>
+<p align="center"><font color="#239120">Desarrollador fullstack especializado en .NET y entusiasta de la automatización.</font></p>
 <p align="center">
-  <img src="assets/animated.svg" alt="Animación de colores" width="60" />
+  <img src="assets/animated.svg" alt="Animación de gradiente" width="60" />
 </p>
 
 <p align="center">
