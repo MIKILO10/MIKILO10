@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=239120,512BD4,0078D4&height=190&section=header&text=Gonzalo%20Maman%C3%AD%20L%C3%B3pez&fontSize=38&fontColor=FFFFFF" alt="Banner" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Ingeniero+de+Software+.NET;DevOps+%7C+Azure+%7C+Docker;Fundador+de+Dev+Jujuy;Automatizando+para+entregar+m%C3%A1s+r%C3%A1pido" alt="Typing SVG" />
-</p>
-
 <h1 align="center"><font color="#512BD4">¡Hola! Soy Gonzalo</font></h1>
 <p align="center"><font color="#239120">Ingeniero de Software .NET, amante de la automatización y creador de soluciones escalables.</font></p>
 
@@ -142,7 +137,3 @@
 > <font color="#512BD4">“La constancia y el aprendizaje diario hacen la diferencia entre solo programar y realmente construir producto.”</font>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=239120,512BD4&height=100&section=footer" alt="Footer" />
-</p>
