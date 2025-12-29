@@ -1,5 +1,5 @@
 <h1 align="center"><font color="#512BD4">¡Hola! Soy Gonzalo</font></h1>
-<p align="center"><font color="#239120">Ingeniero de Software .NET, amante de la automatización y creador de soluciones escalables.</font></p>
+<p align="center"><font color="#239120">Desarrollador Fullstack en .NET, amante de la automatización y creador de soluciones escalables.</font></p>
 
 <p align="center">
   <img src="assets/animated.svg" alt="Animación de gradiente" width="90" />
