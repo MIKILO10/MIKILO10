@@ -76,30 +76,7 @@
 - Configuro pruebas, seguridad y despliegues automatizados desde el inicio del proyecto.
 - Conecto métricas, trazas y alertas a tableros accionables para reaccionar antes de que el usuario note el problema.
 - Documento lo justo y necesario, manteniendo la información viva y cerca del código.
-
----
-
-## 📈 <font color="#239120">Métricas rápidas</font>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIKILO10&show_icons=true&theme=transparent&count_private=true&hide=issues&title_color=512BD4&icon_color=239120" alt="Stats de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKILO10&layout=compact&theme=transparent&langs_count=6&title_color=239120" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIKILO10&theme=transparent&ring=512BD4&fire=239120&currStreakLabel=512BD4&background=FFFFFF00" alt="Racha de commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MIKILO10&theme=flat&margin-w=15&no-frame=true&no-bg=true&title=Commit,Repositories,Experience,Followers,Issues,PullRequest" alt="Trophies de GitHub" />
-</p>
-
-## 📊 <font color="#D14836">Actividad de Commits</font>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIKILO10&theme=github-light" alt="Historial de Commits" />
-</p>
-
+  
 ---
 
 ## 🌟 <font color="#DD0031">Proyectos Destacados</font>
